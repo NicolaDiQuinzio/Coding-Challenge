@@ -1,0 +1,95 @@
+html {
+  background-image: url(./assets/background.jpg);
+  background-size: cover;
+  background-position: center end;
+  font-family: sans-serif;
+  padding-top: 10px;
+}
+/*Header*/
+header {
+  text-align: center;
+}
+
+#transparentbox {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 64%;
+  height: 100%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+#logo img {
+  width: 20%;
+  padding-top: 70px;
+}
+
+h1 {
+  color: #23c222;
+  font-weight: medium;
+  font-size: larger;
+  padding-top: 10px;
+}
+
+/*Main*/
+main {
+  margin-left: 65px;
+  margin-right: 65px;
+  color: white;
+}
+
+#navbar {
+  background-color: #23c222;
+  padding: 5px;
+  margin-left: 65px;
+  margin-right: 65px;
+}
+/*Bottoni Menù*/
+.bottone {
+  font-size: 9px;
+  padding: 1px;
+  cursor: pointer;
+}
+
+/*Inizio Sezione Utenti*/
+.block {
+  padding-bottom: 20px;
+}
+
+.category {
+  padding-top: 10px;
+  font-size: large;
+}
+
+.paragrafi p {
+  font-size: small;
+  margin: 0;
+}
+
+#orangebattery {
+  background-color: #efb945;
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 410px;
+}
+
+#greenbattery {
+  background-color: #23c222;
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 200px;
+}
+
+#redbattery {
+  background-color: #ba3b18;
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 550px;
+}
+
+/*Footer*/
+footer {
+  color: white;
+  font-size: smaller;
+  margin-top: 30px;
+  margin-left: 80%;
+}
